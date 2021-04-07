@@ -1,4 +1,4 @@
-# kinesis-demo
+# Kinesis Demo
 Demo for aws kinesis using localstack
 
 
